@@ -1,0 +1,6 @@
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\bin\Debug\ObserverPatternDotNet.exe.config
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\bin\Debug\ObserverPatternDotNet.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\bin\Debug\ObserverPatternDotNet.pdb
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\obj\Debug\ObserverPatternDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\obj\Debug\ObserverPatternDotNet.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\ObserverPatternDotNet\obj\Debug\ObserverPatternDotNet.pdb
