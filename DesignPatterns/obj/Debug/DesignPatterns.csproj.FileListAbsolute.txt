@@ -1,0 +1,1 @@
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
