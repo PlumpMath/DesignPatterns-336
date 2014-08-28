@@ -1,0 +1,6 @@
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
