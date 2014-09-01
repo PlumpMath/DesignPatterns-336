@@ -1,0 +1,6 @@
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Glaudson\Documents\Visual Studio 2012\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
